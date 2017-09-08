@@ -1,5 +1,7 @@
 # ebb-flow
--A Dao of Web Design Summary
+## A Dao of Web Design Summary
+
+### By Jaime Fox
 
 ![Hero Image for Summary](img/flexibleweb.jpg)
 
