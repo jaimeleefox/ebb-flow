@@ -1,9 +1,9 @@
 # Ebb & Flow
 ## Work in Progress
 
--[Draft](#draft)
--[Revision](#revision)
--[Best Practice](#best-practices)
+- [Draft](#draft)
+- [Revision](#revision)
+- [Best Practice](#best-practices)
 
 - - -
 
@@ -35,6 +35,6 @@ The article A Dao of Web Design written by John Allsopp overall talks about the 
 
 - project-name
   - README.md
-  -index.md
-  -index.html
-  -img/ (folder)
+  - index.md
+  - index.html
+  - img/ (folder)
