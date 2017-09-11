@@ -31,8 +31,13 @@ The article A Dao of Web Design written by John Allsopp overall talks about the 
    - Do not rely on pixels or color
    - Make fonts/ font size changable per viewer
    - Use proportional sizing so that no matter what screen the viewer is looking at, it stays proportional (using percentages)
-   -BE FLEXIBLE, ADAPT WITH TIME
+   - BE FLEXIBLE, ADAPT WITH TIME
 
+# About the Author 
+
+![About the Author](img/author.JPG)
+
+Jaime Fox is a 19 year old girl from Framingham, MA. She currently is a sophomore at Montserrat College of Art in Beverly, MA. She plans on majoring in Graphic Design.
 - - -
 
 ## Best Practices
