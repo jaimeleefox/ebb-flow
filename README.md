@@ -24,7 +24,7 @@ The article A Dao of Web Design written by John Allsopp overall talks about the 
 
 ## A Dao of Web Design: A Summary
 
-### By _italic_Jaime Fox_italic_
+### By _Jaime Fox_
 
 ![Hero Image Update](img/accessibleweb.jpg)
 
