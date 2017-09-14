@@ -22,7 +22,7 @@ The article A Dao of Web Design written by John Allsopp overall talks about the 
 
 # Revision
 
-![Hero Image Update](img/accessibleweb.ai)
+![Hero Image Update](img/accessibleweb.jpg)
 
 The article _A Dao of Web Design_ written by John Allsopp overall talks about the need for adaptability of fonts, layouts, and colors within websites. Allsopp uses the philosophy of Daoism, stemming from the philosophy book _Tao Te Ching_, which focuses on the theme of harmony, to compare the harmony needed in order to create a successful and adaptable website. 
  
