@@ -22,6 +22,10 @@ The article A Dao of Web Design written by John Allsopp overall talks about the 
 
 # Revision
 
+## A Dao of Web Design: A Summary
+
+### By _italic_Jaime Fox_italic_
+
 ![Hero Image Update](img/accessibleweb.jpg)
 
 The article _A Dao of Web Design_ written by John Allsopp overall talks about the need for adaptability of fonts, layouts, and colors within websites. Allsopp uses the philosophy of Daoism, stemming from the philosophy book _Tao Te Ching_, which focuses on the theme of harmony, to compare the harmony needed in order to create a successful and adaptable website. 
@@ -41,7 +45,7 @@ Another main point from this article is that when designing a web page, you must
 
 # About the Author 
 
-
+![Author Image](img/author.jpg)
 
 Jaime Fox is a 19 year old girl from Framingham, MA. She currently is a sophomore at Montserrat College of Art in Beverly, MA. She plans on majoring in Graphic Design.
 - - -
