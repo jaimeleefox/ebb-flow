@@ -35,7 +35,7 @@ The article A Dao of Web Design written by John Allsopp overall talks about the 
 
 # About the Author 
 
-![About the Author](img/author.jpg)
+
 
 Jaime Fox is a 19 year old girl from Framingham, MA. She currently is a sophomore at Montserrat College of Art in Beverly, MA. She plans on majoring in Graphic Design.
 - - -
