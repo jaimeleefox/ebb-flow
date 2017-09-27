@@ -4,6 +4,7 @@
 - [Draft](#draft)
 - [Revision](#revision)
 - [Best Practice](#best-practices)
+- [Final](#final)
 
 - - -
 
@@ -67,3 +68,6 @@ Jaime Fox is a 19 year old girl from Framingham, MA. She currently is a sophomor
   - index.html
   - img/ (folder)
 
+# Final
+
+- [index.html](https://jaimeleefox.github.io/ebb-flow/)
