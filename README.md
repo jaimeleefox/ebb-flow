@@ -71,5 +71,5 @@ Jaime Fox is a 19 year old girl from Framingham, MA. She currently is a sophomor
 # Final
 
 - [index.html](https://jaimeleefox.github.io/ebb-flow/)
-- [summary.html](https://jaimeleefox.github.io/ebb-flow/)
-- [summary.md](https://jaimeleefox.github.io/ebb-flow/)
+- [summary.html](https://jaimeleefox.github.io/ebb-flow/summary.html)
+- [summary.md](https://jaimeleefox.github.io/ebb-flow/sumamary.md)
