@@ -1,4 +1,4 @@
-![A Dao of Web Design Hero Image](img/accessibleweb.png)
+![A Dao of Web Design Hero Image](img/accessibleweb.svg)
 
 # A Summary of A Dao of Web Design
 
