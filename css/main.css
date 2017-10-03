@@ -78,7 +78,7 @@ figure.headshot img {
   /* --- typography --- */
 
 a {
-  color: #2455c3;
+  color: #d21404;
   text-decoration: none;
   }
 
@@ -100,7 +100,14 @@ h1 {
   margin-bottom: 0;
   }
 
- main p {
+main ul {
+  list-style: circle;
+  padding-left: 1em;
+  margin: 0 0 2em;
+  }
+
+ main p,
+ main li {
   /* text-indent: 2em; */
   /* font-family: sans-serif; */
   font: 1.125em/1.667 Georgia, serif;
@@ -109,11 +116,15 @@ h1 {
   line-height: 1.167;
   font-family: Georgia, serif;
  */
-  margin: 0 0 1.5em;
+  margin : 0 0 1.5em;
 /*
   margin-top: 0;
   margin-bottom: 1.5em;
  */
+  }
+
+main li {
+  margin-bottom: .75em;
   }
 
 p.byline {
@@ -138,11 +149,12 @@ p.lead-in {
   margin-left: -10%;
   }
 
+
 /* --- wider screens breakpoints --- */
 
 @media (min-width: 48em) {
 
-dive.bio {
+div.bio {
 margin-left: 9.375em;
 }
 
