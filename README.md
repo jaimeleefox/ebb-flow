@@ -51,23 +51,6 @@ Another main point from this article is that when designing a web page, you must
 Jaime Fox is a 19 year old girl from Framingham, MA. She currently is a sophomore at Montserrat College of Art in Beverly, MA. She plans on majoring in Graphic Design.
 - - -
 
-## Best Practices
-
-### Naming (Conventions) Things
-
-- Use lowercase for naming files, folders, and in markup
-- Use a hyphen (-) or an underscore (_) and not a space (%20) when separating phrases in naming files, folders, and in markup
-
-### Project (Folder, Repo) Structure
-
-#### For Example
-
-- project-name
-  - README.md
-  - index.md
-  - index.html
-  - img/ (folder)
-
 # Final
 
 - [index.html](https://jaimeleefox.github.io/ebb-flow/)
